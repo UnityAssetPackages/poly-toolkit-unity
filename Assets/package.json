@@ -1,0 +1,8 @@
+{
+    "name": "com.uap.poly-toolkit-unity",
+    "displayName": "Poly Toolkit for Unity",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "A plugin for the Unity engine that allows you to import 3D assets from Poly at edit time and at runtime.",
+    "dependencies": { }
+}
